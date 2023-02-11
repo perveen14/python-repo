@@ -49,6 +49,7 @@ print(f"\n\n\nArea of single slice of pizza: {areaOfSingleSlice:.2f} sq. in.")
 print(f"\nCost of a single slice of pizza: ${costOfSingleSlice:.2f}")
 
 #Display outro
+print("\n\nThank you for buying pizza!!")
 
 
 
